@@ -100,7 +100,7 @@ Check codes and their meanings: [skills/orova-seo-check/references/checks.md](sk
 
 ## Built by Orova
 
-[Orova](https://orova.vn) builds AI tools for marketing, sales and SEO teams.
+[Orova](https://orova.vn) is a business AI agent platform: SEO, Ads, Insight, CRM, Social, Link & QR, Email & Meeting, Bot and Recruit in one workspace.
 [Orova SEO](https://orova.vn/en/seo) adds daily monitoring, Search Console insights and AI content tools on top of this check.
 Documentation for all Orova modules is at [orova.vn/en/docs](https://orova.vn/en/docs).
 
