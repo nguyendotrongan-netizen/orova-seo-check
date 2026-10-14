@@ -1,5 +1,7 @@
 # Orova SEO Check for Claude Code
 
+[![Security: A — Skills Directory](https://www.skillsdirectory.com/api/skills/nguyendotrongan-netizen-orova-seo-check/badge)](https://www.skillsdirectory.com/skills/nguyendotrongan-netizen-orova-seo-check) [![MIT](https://img.shields.io/badge/license-MIT-black.svg)](LICENSE)
+
 Ask your coding agent to "check SEO of example.com" and get a scored technical SEO report, backlinks and a shareable link, with no API key and no signup.
 
 ## What you get
