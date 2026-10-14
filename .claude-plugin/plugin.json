@@ -9,5 +9,11 @@
   "homepage": "https://orova.vn/en/seo-check",
   "repository": "https://github.com/nguyendotrongan-netizen/orova-seo-check",
   "license": "MIT",
-  "keywords": ["seo", "audit", "backlinks", "technical-seo"]
+  "keywords": [
+    "seo",
+    "audit",
+    "backlinks",
+    "technical-seo"
+  ],
+  "icon": ".claude-plugin/icon.png"
 }
