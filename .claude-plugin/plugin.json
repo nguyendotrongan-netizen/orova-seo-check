@@ -1,7 +1,7 @@
 {
   "name": "orova-seo-check",
   "displayName": "Orova SEO Check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SEO check and backlinks for any website via the public Orova API: 90+ checks in 12 groups, PageSpeed, Common Crawl referring domains and a shareable report link. No API key, no signup.",
   "author": {
     "name": "Orova",
