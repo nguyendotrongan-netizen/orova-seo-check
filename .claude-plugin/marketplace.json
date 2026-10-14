@@ -11,7 +11,8 @@
       "source": "./",
       "description": "SEO check and backlinks for any website via the public Orova API, with a shareable report link. No API key, no signup.",
       "category": "seo",
-      "homepage": "https://orova.vn/en/seo-check"
+      "homepage": "https://orova.vn/en/seo-check",
+      "displayName": "Orova SEO Check"
     }
   ],
   "description": "Skills and plugins by Orova (orova.vn): SEO check, backlinks and more for Claude Code and other coding agents."
