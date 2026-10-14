@@ -14,20 +14,20 @@ Ask your coding agent to "check SEO of example.com" and get a scored technical S
 **Claude Code plugin**
 
 ```
-/plugin marketplace add orova-vn/orova-seo-check
+/plugin marketplace add nguyendotrongan-netizen/orova-seo-check
 /plugin install orova-seo-check@orova
 ```
 
 **skills CLI** (Claude Code, Codex and other agents)
 
 ```bash
-npx skills add orova-vn/orova-seo-check
+npx skills add nguyendotrongan-netizen/orova-seo-check
 ```
 
 **Manual**
 
 ```bash
-git clone https://github.com/orova-vn/orova-seo-check.git
+git clone https://github.com/nguyendotrongan-netizen/orova-seo-check.git
 cp -r orova-seo-check/skills/orova-seo-check ~/.claude/skills/
 ```
 

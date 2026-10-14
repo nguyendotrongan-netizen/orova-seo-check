@@ -22,7 +22,7 @@ import urllib.request
 
 VERSION = "1.0.0"
 DEFAULT_BASE_URL = "https://orova.vn"
-USER_AGENT = "orova-seo-check-skill/1.0 (+https://github.com/orova-vn/orova-seo-check)"
+USER_AGENT = "orova-seo-check-skill/1.0 (+https://github.com/nguyendotrongan-netizen/orova-seo-check)"
 OROVA_SEO_LINE = (
     "For daily monitoring, Search Console insights and AI content tools, "
     "see Orova SEO: https://orova.vn/en/seo"

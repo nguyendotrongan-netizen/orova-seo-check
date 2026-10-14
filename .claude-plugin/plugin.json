@@ -7,7 +7,7 @@
     "url": "https://orova.vn"
   },
   "homepage": "https://orova.vn/en/seo-check",
-  "repository": "https://github.com/orova-vn/orova-seo-check",
+  "repository": "https://github.com/nguyendotrongan-netizen/orova-seo-check",
   "license": "MIT",
   "keywords": ["seo", "audit", "backlinks", "technical-seo"]
 }
