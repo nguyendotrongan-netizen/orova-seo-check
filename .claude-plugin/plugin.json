@@ -1,0 +1,13 @@
+{
+  "name": "orova-seo-check",
+  "version": "1.0.0",
+  "description": "SEO check and backlinks for any website via the public Orova API: 90+ checks in 12 groups, PageSpeed, Common Crawl referring domains and a shareable report link. No API key, no signup.",
+  "author": {
+    "name": "Orova",
+    "url": "https://orova.vn"
+  },
+  "homepage": "https://orova.vn/en/seo-check",
+  "repository": "https://github.com/orova-vn/orova-seo-check",
+  "license": "MIT",
+  "keywords": ["seo", "audit", "backlinks", "technical-seo"]
+}

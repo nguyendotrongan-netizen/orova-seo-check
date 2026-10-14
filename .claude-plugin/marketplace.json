@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "orova",
+  "owner": {
+    "name": "Orova",
+    "url": "https://orova.vn"
+  },
+  "plugins": [
+    {
+      "name": "orova-seo-check",
+      "source": "./",
+      "description": "SEO check and backlinks for any website via the public Orova API, with a shareable report link. No API key, no signup.",
+      "category": "seo",
+      "homepage": "https://orova.vn/en/seo-check"
+    }
+  ]
+}
